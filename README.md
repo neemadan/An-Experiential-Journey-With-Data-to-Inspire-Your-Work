@@ -19,6 +19,4 @@ Improving the customer experience is valuable because of its effect on our botto
 
 In this notebook, we'll use scikit-learn to predict the customer experience. scikit-learn provides implementations of many classification algorithms. Here, we will apply multiple classification algorithms, evaluate the performance, and select the best peroforming algorithm based on performance metrics.
 
-have chosen the gradient boosting classification algorithm to walk through all the different steps.
-
 To help visualize what we are doing, we'll use 2D and 3D charts to show how the classes look with matplotlib and scikitplot python libraries.

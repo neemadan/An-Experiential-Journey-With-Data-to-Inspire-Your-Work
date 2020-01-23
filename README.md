@@ -18,3 +18,21 @@ Improving the customer experience is valuable because of its effect on our botto
 ## Approach
 
 In this notebook, we'll use scikit-learn to predict the customer experience. scikit-learn provides implementations of many classification algorithms. Here, we will apply multiple classification algorithms, evaluate the performance, and select the best peroforming algorithm based on performance metrics.
+
+
+## Getting started with IBM Watson Studio
+
+It’s easy to get started with the IBM Watson Studio and Watson Knowledge Catalog apps. Just activate the apps for your IBM Cloud account and start working!
+
+To get started:
+
+1. Sign up: Activate Watson apps by logging in to your IBM Cloud account from the **[Try IBM Watson page](https://ibm.biz/BdqDmG)**.
+
+
+2. Create a project: Click **New project** on the Watson Studio home page or your My Projects page.
+
+
+3. Create notebook: After the project is setup and environment is configured, create a **notebook** file.
+
+
+4. Set a project token: Go to your Watson Studio Project page, and click the **Settings** tab. Scroll down to **Access tokens** and click **New token**. 

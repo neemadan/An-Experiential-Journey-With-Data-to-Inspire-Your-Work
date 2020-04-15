@@ -28,6 +28,6 @@ To get started:
 
 1. Sign up: Activate Watson apps by logging in to your IBM Cloud account from the **[Try IBM Watson page](https://ibm.biz/BdqDmG)**.
 
-2. Setup an Environment: Configure **Watson Studio*,  Watson Machine Learning, and Cloud Object Storage**.
+2. Setup an Environment: Configure **Watson Studio,  Watson Machine Learning, and Cloud Object Storage**.
 
 3. Create a Project: After the project is setup and environment is configured, create a **notebook** file.

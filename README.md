@@ -4,7 +4,7 @@
 
 The Experiential Journey with Data to Inspire Your Work session will make you think differently about data and how it can solve problems! You will hear surprising use case that will make you think, sometimes laugh and hopefully inspire your own work. The use case and introductory material includes a hands-on experiential journey described below. The most valuable part of this session is that it is designed to help you gain experience and relate it to your work – so that when you leave you have a plan of action on how you can make data more useful in your organization to solve a key challenge.
 
-A real-business application of analytics in “Improving Customer Experiences with Real-Time Insights” will be used as an example during the workshop. This experiential session will include a step by step journey on “How data science is helping IBM to predict the customer experience journey and proactively address the issues, leading to the improvement of Net Promoter Score”. The session will also highlight the importance of using CRISP-DM (Cross Industry Standard Process for Data Mining) and Agile in Data Science projects.
+A real-business application of analytics in “Improving Customer Experiences with Real-Time Insights” will be used as an example during the workshop. This experiential session will include a step by step journey on “How data science is helping IBM to predict the customer experience journey and proactively address the issues, leading to the improvement of Net Promoter Score”. The session will also highlight the importance of using AI Canvas, CRISP-DM (Cross Industry Standard Process for Data Mining), and Agile in Data Science projects.
 
 The methodology involves consuming historical Net Promoter Score (NPS) data; using machine learning and artificial intelligence to identify the most important features and created an algorithm to predict the customer experience.
 
@@ -28,11 +28,6 @@ To get started:
 
 1. Sign up: Activate Watson apps by logging in to your IBM Cloud account from the **[Try IBM Watson page](https://ibm.biz/BdqDmG)**.
 
+2. Setup an Environment: Configure **Watson Studio*,  Watson Machine Learning, and Cloud Object Storage**.
 
-2. Create a project: Click **New project** on the Watson Studio home page or your My Projects page.
-
-
-3. Create notebook: After the project is setup and environment is configured, create a **notebook** file.
-
-
-4. Set a project token: Go to your Watson Studio Project page, and click the **Settings** tab. Scroll down to **Access tokens** and click **New token**. 
+3. Create a Project: After the project is setup and environment is configured, create a **notebook** file.

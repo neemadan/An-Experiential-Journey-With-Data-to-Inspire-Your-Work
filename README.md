@@ -30,4 +30,4 @@ To get started:
 
 2. Setup an Environment: Configure **Watson Studio,  Watson Machine Learning, and Cloud Object Storage**.
 
-3. Create a Project: After the project is setup and environment is configured, create a **notebook** file.
+3. Create a Project: After the project is setup and environment is configured, create a **notebook**.

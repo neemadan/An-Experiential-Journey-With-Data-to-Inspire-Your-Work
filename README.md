@@ -26,7 +26,7 @@ It’s easy to get started with the IBM Watson Studio and Watson Knowledge Catal
 
 To get started:
 
-1. Sign up: Activate Watson apps by logging in to your IBM Cloud account from the **[Try IBM Watson page](https://ibm.biz/BdqgWu)**.
+1. Sign up: Activate Watson apps by logging in to your IBM Cloud account from the **[Try IBM Watson page](https://ibm.biz/BdfEVw)**.
 
 2. Setup an Environment: Configure **Watson Studio,  Watson Machine Learning, and Cloud Object Storage**.
 

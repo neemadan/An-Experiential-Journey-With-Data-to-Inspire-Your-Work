@@ -2,9 +2,11 @@
 
 ## Introduction 
 
-The Experiential Journey with Data to Inspire Your Work session will make you think differently about data and how it can solve problems! You will hear surprising use case that will make you think, sometimes laugh and hopefully inspire your own work. The use case and introductory material includes a hands-on experiential journey described below. The most valuable part of this session is that it is designed to help you gain experience and relate it to your work – so that when you leave you have a plan of action on how you can make data more useful in your organization to solve a key challenge.
+The Data Science Virtual Workshop, "An Experiential Journey with Data to Inspire Your Work", will make you think differently about data and how it can solve problems! This workshop includes surprising use cases that will make you think differently about data, sometimes laugh, and hopefully inspire your own work to discover actionable insights in the mounds of data available.
 
-A real-business application of analytics in “Improving Customer Experiences with Real-Time Insights” will be used as an example during the workshop. This experiential session will include a step by step journey on “How data science is helping companies to predict the customer experience journey and proactively address the issues, leading to the improvement of Net Promoter Score”. The session will also highlight the importance of using AI Canvas, CRISP-DM (Cross Industry Standard Process for Data Mining), and Agile in Data Science projects.
+The use cases and introductory material will be followed by a hands-on experiential journey addressing a common challenge across industries – how to improve the customer experience. The most valuable part of this workshop is that it is designed to help you gain experience and relate it to your work – so at the end you have a plan of action on how you can make data more useful in your organization to solve a key challenge.
+
+“Improving Customer Experiences with Real-Time Insights”, will be used as an example during the workshop. This experiential session will include a step-by-step journey based on how data science is helping companies to predict the customer experience journey and proactively address the issues, leading to the improvement of Net Promoter Score. The session will highlight the importance of interpretability in AI using SHAP ((SHapley Additive exPlanations), using AI Canvas, CRISP-DM (Cross Industry Standard Process for Data Mining) and Agile in Data Science projects. The methodology involves consuming historical NPS data; using machine learning and artificial intelligence to identify the most important features and creating an algorithm to predict the customer experience.
 
 The methodology involves consuming historical Net Promoter Score (NPS) data; using machine learning and artificial intelligence to identify the most important features and created an algorithm to predict the customer experience.
 
@@ -17,17 +19,4 @@ Improving the customer experience is valuable because of its effect on our botto
 
 ## Approach
 
-In this notebook, we'll use scikit-learn to predict the customer experience. scikit-learn provides implementations of many classification algorithms. Here, we will apply multiple classification algorithms, evaluate the performance, and select the best peroforming algorithm based on performance metrics.
-
-
-## Getting started with IBM Watson Studio
-
-It’s easy to get started with the IBM Watson Studio and Watson Knowledge Catalog apps. Just activate the apps for your IBM Cloud account and start working!
-
-To get started:
-
-1. Sign up: Activate Watson apps by logging in to your IBM Cloud account from the **[Try IBM Watson page](https://ibm.biz/BdfEVw)**.
-
-2. Setup an Environment: Configure **Watson Studio,  Watson Machine Learning, and Cloud Object Storage**.
-
-3. Create a Project: After the project is setup and environment is configured, create a **notebook**.
+In this notebook, to predict the customer experience, we will use scikit-learn to evaluate multiple classification algorithms, and select the best peroforming algorithm based on performance metrics. In additon, we will also use SHAP to intepret the predictions.
